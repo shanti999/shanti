@@ -1,0 +1,68 @@
+h3{
+    font-family: Calibri; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    background-color: burlywood;
+    text-align: center;
+  
+  }
+  
+  table{
+    font-family: Calibri; 
+    color:white; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:center; 
+    background-color:paleturquoise; 
+    border-collapse: collapse; 
+    border: 2px solid black;
+  }
+  table.inner{
+    border: 0px
+  }
+
+  body{
+    background-color:burlywood;
+    text-align: center;
+  }
+
+  td{
+    text-align: center;
+    text-decoration-color: black;
+  }
+
+  nav{
+    height: 70px;
+    width: 100%;
+    background: #345e4b;
+}
+
+label.logo{
+    font: size 28px;
+    font-weight:bold ;
+    color:white;
+    padding: 0% 100px;
+    line-height: 80px;
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 70px;
+    
+}
+
+nav a{
+    color: blanchedalmond;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+.foot{
+  background-color: #345e4b;
+}

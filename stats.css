@@ -1,0 +1,64 @@
+*{
+    margin: 50px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
+}
+
+body{
+    background-color: beige;
+}
+
+.invoice-table{
+    border-collapse: collapse;
+    width:50em;
+    background-color: azure;
+    border-radius: 50px;
+    box-shadow: 0px 10px 30px 5px rgba(red, green, blue, alpha);
+}
+
+p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+th{
+    background-color: rgb(21, 231, 21);
+}
+    
+td{
+    background-color:yellow;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    background: #345e4b;
+}
+
+label.logo{
+    font: size 28px;
+    font-weight:bold ;
+    color:white;
+    padding: 0% 100px;
+    line-height: 80px;
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 70px;
+    
+}
+
+nav a{
+    color: blanchedalmond;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+.foot{
+    background-color: #345e4b;}

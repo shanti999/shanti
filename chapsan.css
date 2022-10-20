@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    background: beige;
+  
+
+}
+
+nav{
+    height: 70px;
+    width: 100%;
+    background: #345e4b;
+}
+
+label.logo{
+    font: size 28px;
+    font-weight:bold ;
+    color:white;
+    padding: 0% 100px;
+    line-height: 80px;
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 70px;
+    
+}
+
+nav a{
+    color: blanchedalmond;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.image1{
+   margin-top: 50px;
+   margin-left: 50px;
+   width: 400px;
+
+}
+
+.Container
+{
+    width: 400px;
+    height: 286px;
+    border-radius: 4px;
+    padding: 5px;
+    padding-left: 1rem;
+    padding-bottom: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    position: relative;
+    border: 3px solid #ddd;
+    bottom:435px;
+    float: right;
+    margin-top: 500px;
+
+}
+
+.foot{
+    background-color: #345e4b;}
